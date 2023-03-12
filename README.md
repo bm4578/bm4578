@@ -4,10 +4,13 @@
 - ⚡ Fun fact: [@Blog](https://bm4578.github.io/)
 
 
-📈 my github stats :
-<br/>
-<br/>
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=bm4578)
+[comment]: <> (📈 my github stats :)
+
+[comment]: <> (<br/>)
+
+[comment]: <> (<br/>)
+
+[comment]: <> (![Dusai's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=bm4578&#41;)
 <!--
 **bm4578/bm4578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
