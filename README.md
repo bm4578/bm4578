@@ -1,8 +1,14 @@
-### hey there ，i'm 白也 ,一名自学的在校大学生   👋
+### hey there ，i'm 白也 ,一名自学的在校大学生   👋👋👋
+
+- 🌱 I’m currently learning java
+- ⚡ Fun fact: [@Blog](https://bm4578.github.io/)
+
 
 📈 my github
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="bm4578" />
+<p align="center">
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=bm4578)
+</p>
 <!--
 **bm4578/bm4578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
