@@ -1,6 +1,6 @@
 ### hey there ，i'm 白也 ,一名自学的在校大学生   👋👋👋
 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java 、docker
 - ⚡ Fun fact: [@Blog](https://bm4578.github.io/)
 
 
