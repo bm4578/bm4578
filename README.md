@@ -1,7 +1,8 @@
-### Hi there 👋
+### hey there ，i'm 白也 ,一名自学的在校大学生   👋
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=bm4578)
+📈 my github
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="bm4578" />
 <!--
 **bm4578/bm4578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
