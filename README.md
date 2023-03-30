@@ -1,7 +1,7 @@
 ### hey there ，i'm 白也 ,一名在校大学生   👋👋👋
 
 - 🌱 I’m currently learning java 、docker
-- ⚡ Fun fact: [@Blog](https://bm4578.github.io/)
+- ⚡ Fun fact: [@Blog](https://blog.bm4578.eu.org/)
 
 
 [comment]: <> (📈 my github stats :)
